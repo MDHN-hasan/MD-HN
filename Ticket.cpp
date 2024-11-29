@@ -23,7 +23,7 @@ int main()
             else if (age <=60 && customerclub!=code)
             cout << "You have to pay 25 tomans.";
             else if (age >60)
-            cout << "You are included in the special discount." << "\n" << "You have to pay 10 tomans."
+            cout << "You are included in the special discount." << "\n" << "You have to pay 10 tomans.";
             else
                         cout << "\n" <<"your welcome";
 }
